@@ -18,6 +18,7 @@ provider "azurerm" {
       recover_soft_deleted_key_vaults = true
     }
   }
+  subscription_id = "5a775aa2-0a21-483c-9818-460896054c2e"
 }
 
 # Random suffix for globally unique resource names

@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
 
 env:
-  RESOURCE_GROUP: "rg-mlops-dev-ksh026"
-  WORKSPACE_NAME: "mlw-diabetes-dev-ksh026"
+  RESOURCE_GROUP: "rg-mlops-dev-yvfa8j"
+  WORKSPACE_NAME: "mlw-diabetes-dev-yvfa8j"
   DATA_ASSET_NAME: "diabetes-dev-folder"
 
 jobs:
